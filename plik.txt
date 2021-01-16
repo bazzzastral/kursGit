@@ -1,1 +1,4 @@
  siemanko to jest kolejna zmiana
+
+
+ Dodanie nowej, eksperymentalnej funkcjonalnosci
